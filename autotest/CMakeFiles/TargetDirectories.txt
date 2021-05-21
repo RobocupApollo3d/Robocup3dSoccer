@@ -1,0 +1,3 @@
+/home/apollo3d/Documents/gitlab/autotest/CMakeFiles/rebuild_cache.dir
+/home/apollo3d/Documents/gitlab/autotest/CMakeFiles/edit_cache.dir
+/home/apollo3d/Documents/gitlab/autotest/CMakeFiles/agentspark.dir
