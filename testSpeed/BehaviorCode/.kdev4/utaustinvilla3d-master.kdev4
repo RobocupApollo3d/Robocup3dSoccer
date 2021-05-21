@@ -1,0 +1,20 @@
+[Buildset]
+BuildItems=@Variant(\x00\x00\x00\t\x00\x00\x00\x00\x01\x00\x00\x00\x0b\x00\x00\x00\x00\x01\x00\x00\x00,\x00u\x00t\x00a\x00u\x00s\x00t\x00i\x00n\x00v\x00i\x00l\x00l\x00a\x003\x00d\x00-\x00m\x00a\x00s\x00t\x00e\x00r)
+
+[CMake]
+Build Directory Count=1
+Current Build Directory Index=0
+ProjectRootRelative=./
+
+[CMake][CMake Build Directory 0]
+Build Directory Path=file:///home/apollo3d/Desktop/utaustinvilla3d-master/build
+Build Type=Debug
+CMake Binary=file:///usr/bin/cmake
+Environment Profile=
+Extra Arguments=
+Install Directory=file:///usr/local
+
+[Defines And Includes][Compiler]
+Name=GCC
+Path=gcc
+Type=GCC

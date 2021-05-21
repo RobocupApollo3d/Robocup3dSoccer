@@ -1,0 +1,21 @@
+BehaviorCode 定义对比行为的工程
+
+
+- Apollo3d_cjy （聚类修改参数）目前参数是在APollo国赛参数上修改部分
+- startcjy_UT.sh --- Apollo3d_cjy （聚类修改参数） :  UT （默认参数）
+  - 会用到startUT.sh
+- startcjy_Apollo.sh --- Apollo3d_cjy （聚类修改参数） :  Apollo国赛（默认参数）
+  - 会使用到startgit.sh
+
+需要改cjy的参数的话，直接在paramfiles里面改。
+
+△△△△△△△△△△△△△△△△△△△△△△△△△△△△△△△△△△△△△△△△△△△△△△△△△△△△△△△△△△
+千万不要动paramfilesUT，skillsUT文件，这两个是UT默认代码要读取的参数
+
+
+△△△△△△△△△△△△△△△△△△△△△△△△△△△△△△△△△△△△△△△△△△△△△△△
+startcjysingleno.sh     不打开roboviz 也不上其他代码
+startcjySingle.sh	会打开roboviz 但不上其他代码
+
+
+测试改的地方只有/paramfiles 
